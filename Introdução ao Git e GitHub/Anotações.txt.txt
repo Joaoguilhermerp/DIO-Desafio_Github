@@ -1,6 +1,6 @@
-Desafio de projeto da DIO.
+Desafio de projeto da DIO em Git e GitHub. 
 
-Em Git e GitHub. 
-
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
 
 "É pela boas base que se contrói algo sólido"
